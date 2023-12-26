@@ -1,5 +1,5 @@
 # best_fit
-Given an estimation method, such as OLS, GLS, LOGIT, or PROBIT, searches function specification space up to three interaction levels from variables specified in a formula to find best fitting selections of variables based on a given information criteria, such as AIC and BIC.  Implemented in Python 3.  Tested with Python 3.8, 3.10.
+Given an estimation method, such as OLS, GLS, LOGIT, or PROBIT, searches function specification space up to three interaction levels from variables specified in a formula to find best fitting selections of variables based on a given information criteria, such as AIC and BIC.  Use it to examine polynomial and interaction terms up to 3rd degree.  Implemented in Python 3.  Tested with Python 3.8, 3.10.
 
 Help on module best_fit:
 
