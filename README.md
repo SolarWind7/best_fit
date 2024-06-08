@@ -36,3 +36,4 @@ FUNCTIONS
         When level == 2, also adds interaction terms and squared terms on all variables.
         When level == 3, adds level 3 interaction terms and cubed terms on all variables.
 
+<meta name="google-site-verification" content="ZYgaXP-d4anw82tkJOdTCXCWTwOd3BM2r-zoe9wSP5A" />
